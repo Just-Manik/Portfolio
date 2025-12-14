@@ -1,7 +1,6 @@
 window.onload = () => {
     toggleNavbar();
     toggleMobileNav();
-    setupSmoothScroll();
 };
 
 // Setup Navbar Scroll Effect
